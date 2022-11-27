@@ -1,0 +1,437 @@
+In network problems,while considering the effect of individual sources, voltage sources are	||||	short circuited	#
+
+Superposition theorem is applicable to 	||||	linear bilateral network	#
+
+Thevenin's theorem can be applied for	||||	both D.C & A.C	#
+
+Output is directly proportional to the input is known as	||||	linear element	#
+
+A network is said to be linear if and only if	||||	both b & c	#
+
+In order to find RTH in Thevenin’s theorem	||||	All independent voltage source are short circuited and all independent current sources are open circuited	#
+
+While calculating RTH in Thevenin’s theorem and Norton’s theorem	||||	all independent sources are made dead	#
+
+The superposition theorem requires as many circuits to be solved as there are	||||	sources	#
+
+Maximum power that can be delivered to a load occurs when the load resistance is	||||	equal to the internal resistance of the source	#
+
+Super position theorem is applicable	||||	to find both voltage and current	#
+
+The maximum efficiency of power transfer to the load is	||||	50%	#
+
+ In maximum power transfer theorem, expression for maximum power is	||||	(Vth)2/4RL	#
+ 
+Norton’s equivalent circuit consists of	||||	Current source in parallel with the internal resistance	#
+
+Thevenin’s equivalent circuit consists of	||||	Voltage source in series with the internal resistance	#
+
+The expression for load current in Thevenin’s theorem is given by,	||||	  VTH/(ZTH+ZL)	#
+
+The expression for load current in Norton’s theorem is given by,	||||	  ISC*RTH /(RTH+RL)	#
+
+The super position theorem is essentially based on the concept of	||||	linearity	#
+
+Super position theorem is valid	||||	For both ac and dc circuits              	#
+
+When applying supper position theorem to any circuit  	||||	The voltage source is shorted, the current source is opened	#
+
+Thevenin’s voltage is equal to	||||	open circuit voltage	#
+
+ If the source impedance is capacitive, for maximum transfer of power from the source to the load should be	||||	inductive	#
+ 
+The maximum power transfer theorem can be applied	||||	both ac and dc circuits	#
+
+ In an impedance circuit, the maximum power transfer occurs when the load impedance is equal to	||||	    complex conjugate of source impedance          	#
+ 
+A DC voltage source of 10V with internal resistance of 3 Ω is connected to a resistor RL. Maximum transfer of power from source to load takes place when RL equals	||||	   3 ohm	#
+
+For maximum transfer of power, internal resistance of the source should be,	||||	equal to RL	#
+
+While determining RTh of a circuit	||||	all sources should be replaced by their source resistance	#
+
+The superposition theorem may be used to find solutions to networks with two or more sources that are ____________________________.	||||	neither in series or in parallel	#
+
+35. The most obvious advantage of the superposition theorem is that ___________________ advanced mathematical techniques.	||||	    it does not require	#
+
+R-Norton is ____________________ R-Thevenin.  	||||	     different from	#
+
+To find VTH, determine the _______________________ between the marked terminals.    	||||	      open circuit voltage	#
+
+Thevenin’s impedance of an ac network as seen from any two terminals is in general	||||	    both (b) and (c)	#
+
+The Norton and Thevenin equivalent is applicable at _________________ frequency/frequencies	||||	only one	#
+
+The Norton equivalent circuit and Thevenin equivalent circuit can be found from each other by using ______________________.	||||	    a source transformation	#
+
+When the load is properly chosen for maximum power transfer, the load will appear _______________.	||||	     totally resistive	#
+
+Maximum power will be transferred to a load when the load impedance is ___________________ of the Thevenin impedance across its terminals.  	||||	     the conjugate 	#
+
+To calculate ZTH, first _____________ all voltage and current sources.	||||	    remove	#
+
+To find current in a resistance connected in one branch of network, Thevenin’s theorem is used. Let, Vth = 20V & Rth = 5Ω then the current in the resistance is	||||	   4 A or less	#
+
+ The current ____________, or the voltage ______________, an element in a linear bilateral network is equal to the algebraic sum of the currents or voltages produced independently by each source.	||||	   through and across	#
+ 
+Maximum power transfer theorem finds applications in	||||	   communication circuits	#
+
+ To find current in a 10 Ω resistance connected ina circuit, Norton’s theorem is used. Let, IN = 10 A. The current Fflowing through 10 Ω resistance	||||	   will always be less than 10 A	#
+ 
+Any two-terminal, linear bilateral dc network can be ____________ an equivalent circuit consisting of a voltage source and a series resistor.	||||	   replaced by	#
+
+Norton theorem is valid for network containing only	||||	   linear elements	#
+
+A 470 Ω load resistance is connected across a voltage source of 120 V. The internal resistance of the source is 12 Ω. What is the output voltage across the load?	||||	   117 V	#
+
+R-Thevenin is found by ____________ all sources and determining the resistance looking back into the two terminal network.	||||	turning off	#
+
+E-Thevenin is the ____________ voltage looking back into the two terminal network.  	||||	   open circuit	#
+
+Norton's theorem states that, "Any two-terminal linear bilateral dc network can be replaced by an equivalent circuit consisting of a ___________ source and a _________ resistor."  	||||	    current and parallel	#
+
+The Superposition Theorem ___________________ with power effects in ac networks.	||||	    is not applicable 	#
+
+When applying Thevenin's theorem to a circuit with __________________________, start by removing the portion of the network across which the Thevenin equivalent circuit is to be found.	||||	    an independent source	#
+
+The superposition theorem may be used to find solutions to networks with two or more sources that are ____________________________.	||||	    neither in series or in parallel	#
+
+The number of networks to be analyzed is, in general, __________________ the number of independent sources.	||||	 equal to	#
+
+Transient current response of RL circuit is given by	||||	i(t)=(V/R)(1-e-(R/L)t)	#
+
+At steady state condition, the current flows in RL circuit	||||	  V/R	#
+
+Transient current response of RC circuit is given by	||||	  i(t)=(V/R )e-(1/RC)t)	#
+
+In RL circuit, time constant is defined as the ratio of	||||	  L to R	#
+
+In RC circuit, time constant is 	||||	  τ =RC	#
+
+RLC series circuit is said to be resonance circuit, when 	||||	  XL=XC	#
+
+At transient condition, the voltage across an inductor in RL circuit is	||||	  VL=(V )(e-(R/L)t)	#
+
+If  X L>X C, then the RLC circuit behaves as	||||	  inductive circuit	#
+
+If  X c>X L, then the RLC circuit behaves as	||||	  capacitive circuit	#
+
+Transient voltage across capacitor in RLC circuit is given by	||||	  V(t)=(R/V )e-(1/RC)t)	#
+
+At resonance ,the impedance of series RLC circuit is equal to	||||	  R	#
+
+The transient behavior occurs in any circuit when	||||	  all of the above happen  #
+
+The transient response occurs	||||	  both inductive and capacitive circuits       #
+
+Inductor does not allow sudden changes	||||	  in currents	#
+
+ Capacitor does not allow sudden changes	||||	  in voltages	#
+ 
+In RLC circuit, if (R/2L)2 =1/(LC), then response is	||||	critical damped	#
+
+In RLC circuit, if (R/2L)2 >1/(LC), then response is	||||	 over damped	#
+
+In RLC circuit, if (R/2L)2 <1/(LC), then response is	||||	  under damped	#
+
+Voltage across the resistor in RL circuit	||||	 V=(V )(1-e-(R/L)t)	#
+
+Voltage across the resistor in RC circuit	||||	  V=(V )(e-(1/RC)t)	#
+
+A circuit with constant sources is said to be in steady state if the currents and voltages do not change with	||||	  frequency	#
+
+A series RC circuit has R=10Ω, C=0.1F with 20V D.C supply. what is the current at t=0 ?	||||	 2A                                                                                            	#
+
+A series RC circuit has R=10Ω, C=0.1F with 20V D.C supply. What is the voltage across capacitor at t=0 ?	||||	 0v	#
+
+A series RL circuit has R=10Ω, L=5H with 20V D.C supply. what is the current at t=∞ ?	||||	 2A                                                                                             	#
+
+A series RL circuit has R=10Ω, L=0.1H with 20V D.C supply. what is the voltage across inductor at t=0 ?	||||	 20V	#
+
+A d.c voltage V is applied to RL circuit, the steady state current is	||||	 V/R	#
+
+A d.c voltage 10V is applied to a  circuit with R=2Ώ,L=2H. The steady state current is	||||	5	#
+
+A d.c voltage V is applied to RC circuit, the steady state current is	||||	0	#
+
+A series RL circuit has R=10Ω, L=5H with 20V D.C supply. what is the time constant ?	||||	0.5	#
+
+A series RC circuit has R=10Ω, C=0.1F with 20V D.C supply. what is the time constant ?	||||	1	#
+
+Transient currents are associated with	||||	  changes in the stored energy in inductors and capacitors	#
+
+A sudden change in current in resistor will be 	||||	 allowed	#
+
+A sudden change in voltage in resistor will be	||||	  allowed	#
+
+A sudden change in current in inductor will be 	||||	 not allowed	#
+
+A sudden change in voltage in inductor will be	||||	 allowed	#
+
+A sudden change in current in capacitor will be	||||	  allowed	#
+
+A sudden change in voltage in capacitor will  	||||	 not be allowed	#
+
+A series RL circuit has R=1Ω, L=15H with 100V D.C supply. What is the time constant?	||||	15	#
+
+In circuits excited by dc source at transient state __________ behave as short circuit and   ________ behave as open circuit.  S1 : Capacitance S2 : Inductance	||||	 Both S1 & S2	#
+
+Damping ratio can be adjusted by varying the ___________ of the circuit  S1 : Capacitance  S2 : Resistance	||||	  Only S2	#
+
+The time duration from the instant of switching till the attainment of steady state is  called ________	||||	 Transient period 	#
+
+The response of a circuit due to _______ alone is called natural response.	||||	  stored energy 	#
+
+The complementary function is also called _______ 	||||	  Natural response.	#
+
+The particular integral is also called ________	||||	steady state response	#
+
+The transient response is also called____________	||||	  Natural response	#
+
+In __________ the current at t = 0 – is equal to current at t = 0+	||||	 inductance	#
+
+In circuits excited by dc source at steady state __________ behave as short circuit and _________ behave as open circuit.	||||	 inductance, capacitance	#
+
+In circuits excited by dc source at transient state __________ behave as open circuit and   ________ behave as short circuit.	||||	 inductance, capacitance	#
+
+In circuits excited by dc source at steady state __________ behave as open circuit and ________ behave as short circuit.	||||	 capacitance, inductance	#
+
+In circuits excited by dc source at transient state __________ behave as short circuit and   ________ behave as open circuit.	||||	   capacitance, inductance	#
+
+In 3 phase system each phase is displaced by an angle of	||||	120°	#
+
+In a Y-connected circuit, between each line voltage and the nearest phase voltage, there is a phase angle of	||||	30°	#
+
+In a certain three-wire Y-connected generator, the phase voltages are 2 kV. The magnitudes of the line voltages are	||||	3464	#
+
+In a Y-connected circuit, the magnitude of each line current is	||||	equal to the corresponding phase current	#
+
+Polyphase generators produce simultaneous multiple sinusoidal voltages that are separated by	||||	certain constant phase angles	#
+
+In a three-phase system, the voltages are separated by	||||	120°	#
+
+If in a Y-connected ac generator, each phase voltage has a magnitude of 90 VRMS, what is the magnitude of each line voltage?	||||	156 V	#
+
+In a Y-Y source/load configuration, the	||||	phase current, the line current, and the load current are all equal in each phase	#
+
+In a three-phase system, when the loads are perfectly balanced, the neutral current is	||||	zero	#
+
+In a certain Y-Y system, the source phase currents each have a magnitude of 9 A. The magnitude of each load current for a balanced load condition is	||||	9A	#
+
+A delta connection contains three equal impedance of 60 Ω. The impedance of the equivalent star connection for each star load will be	||||	20 Ω.	#
+
+A 3 - Φ delta connected symmetrical load consumes P Watts of power from a balanced supply. If the same load is connected in star to the same supply then what is the power consumption? 	||||	P / 3.	#
+
+For a 3 - Φ load balanced condition, each phase has the same value of __________________. 	||||	Reistance, impedance and power factor	#
+
+A 3 wire, 3 - Φ supply feeds a load consisting of three equal resistors. By how much is the load reduced if one of the resistor be removed when the load is in star ?	||||	50 % of the original load	#
+
+Phase voltages of a star connected alternator are ER = 240∠ 0° V, EY = 240∠ -120° V and EB = 240 ∠ + 120° V. What is the phase sequence of the system?	||||	RYB	#
+
+In delta connected circuit when one resistor is open, then power will be	||||	reduced by the factor of 3	#
+
+VRN, VYN and VBN are three phase voltage of a balanced three phase system. If VRN = 200∠ 30° V and VBN = 200∠ - 90° V, then phase sequence of the system is 	||||	RBY.	#
+
+In two wattmeter method of power measurement if the total power is measured by one wattmeter only then power factor of the system is	||||	#
+
+A balanced 3 - Φ star connected load is fed from a 208 V, 3 - Φ supply. Each load has resistance of 35 Ω. The total power is 	||||	1236 W	#
+
+Power in a Three Phase Circuit = _________.	||||	P = √3 VL IL CosФ	#
+
+The RMS and mean value is same in the case of	||||	Square	#
+
+The output of 3 phase machine is always	||||	greater than single phase machine	#
+
+For Transmission and distribuiton which system is advantageous	||||	Three phase	#
+
+Power factor in 3 phase system	||||	Better than single phase	#
+
+Balanced network means	||||	Phase currents are equal	#
+
+In a balanced network the load connected across 3 phases will be	||||	equal	#
+
+In a balanced network the power conusmed by 3 phases will be	||||	equal	#
+
+Load is said to unbalanced when	||||	Impedances and currents unequal	#
+
+In detla connection	||||	Line voltage = phase voltage	#
+
+In star connection	||||	Line current=phase current	#
+
+Rotating magnetic field can be created with	||||	3 phase	#
+
+Phase votlage means	||||	Voltage between Netural and Phase	#
+
+Wattmeter is 	||||	Used to measure power	#
+
+The form factor of a 220V, 50 Hz A.C. wave form is 	||||	1.11	#
+
+The average value of AC sine wave	||||	0	#
+
+The circuit in which no transient is generated at t = 0 is purely _________	||||	None of the above	#
+
+The time constant of RL circuit with R = 5 Ohms and L = 0.2 H is ___.	||||	     0.04 sec	#
+
+
+The time constant of RC circuit with R = 200 Ohms and C = 10μF is ____	||||	   2 m.sec	#
+
+The steady state current in a RC series circuit with R = 100 Ohms and C = 10μF excited by a dc source of 10 V is___________	||||	  Zero	#
+
+The steady state voltage across the inductance in the series RL circuit with R=5 Ohms and L = mH excited by a dc source of 20V is _________	||||	   Zero	#
+
+The ratio of resistance of the circuit and resistance for the critical damping is called___________	||||	 Damping ratio	#
+
+The frequency of oscillatory response of a circuit with zero resistance is_____	||||	 Natural frequency	#
+
+The critical resistance of the circuit is defined as _______________	||||	 The resistance at which no oscillation takes place	#
+
+A parallel tuned LC circuit resonates at 2 MHz and Q is 100 at resonance. Its 3dB bandwidth is	||||	  20kHz	#
+
+In an RLC series circuit, the impedance at resonance is	||||	  R	#
+
+For the condition of resonance in a series RLC circuit where Q = 10 and the applied voltage of 100mV at resonance frequency, obtain  the voltage across the capacitor 	||||	  1 V	#
+
+What is the total reactance of a series RLC circuit at resonance?	||||	 zero  	#
+
+A series resonance circuit is said to be sharply tuned for  	||||	  low resistance 	#
+
+A resistance of 5 ohm, inductance of 40 mH yields a quality factor of 40.The capacitor value is 	||||	  1 μF	#
+
+What is the phase angle of a series RLC circuit at resonance?	||||	  zero	#
+
+In a series RLC circuit L = 15mH, C = 0.015μF and R = 80 Ω. What is the impedance of the circuit at resonant frequency?	||||	  80 Ω	#
+
+In a series RLC circuit operating below the resonant frequency, the current 	||||	  leads V	#
+
+In a series RLC circuit, if C is increased, what happens to the resonant frequency?	||||	  decreases	#
+
+At resonance for low values of resistance,	||||	  current varies most sharply around  resonant frequency	#
+
+In a parallel resonance circuit, why does the current lags behind the source voltage at frequencies below resonance? 	||||	  because the circuit is predominantly inductive	#
+
+In a series resonance circuit, voltage across the capacitance Vc = 150V, voltage across the inductance VL = 150V and voltage across the resistance VR = 50V. What is the applied voltage?	||||	  50V	#
+
+A certain series resonance circuit has a bandwidth of 1000Hz. If the existing coil is placed by a coil with lower Q, what happens to the bandwidth?	||||	  increases	#
+
+If the lower cut off frequency is 2400 Hz and the upper cut off frequency is 2800 Hz. What is the bandwidth?	||||	  400 Hz	#
+
+In a series RLC resonance circuit the lower cut off frequency is 2000 Hz and the upper cut off frequency is 2800 Hz. What is the bandwidth?	||||	  800 Hz	#
+
+In a series RLC resonance circuit the lower cut off frequency is 2400 Hz and the bandwidth is 800 Hz. What is the upper cut off frequency?	||||	  3200 Hz	#
+
+At 3-dB frequencies, current in the series RLC circuit equals the current at resonance multiplied by:	||||	  1/√2	#
+
+A series RLC circuit resonates at 3 MHz and has 3-dB bandwidth of 10kHz. The Q of the circuit at resonance is	||||	300	#
+
+A series RLC circuit resonates at 1000 kHz. At frequency of 1005 kHz, the circuit impedance is	||||	  inductive	#
+
+A series RLC circuit resonates at 1000 kHz. At frequency of 995 kHz, the circuit impedance is	||||	  inductive	#
+
+In a series resonant RLC circuit, at resonance 	||||	  current is maximum	#
+
+In a parallel RLC resonance circuit, at resonance	||||	  voltage is maximum	#
+
+In a series RLC circuit, the value of current at resonance is affected by the value of	||||	  only R	#
+
+In a resonance circuit, the power factor at resonance is	||||	  unity	#
+
+In a two branch parallel circuit, if the resistance of both branches are same, then  	||||	  resonant frequency is equal to the series resonant frequency	#
+
+For the condition of resonance in a series RLC circuit where Q = 10 and the applied voltage of 100mV at resonance frequency, Obtain  the voltage across the  inductor.	||||	  400mV	#
+
+The expression for resonant frequency is 	||||	  1/2л√LC	#
+
+A voltage induced in coil according to	||||	  Faraday’s law	#
+
+Self inductance of coil is given by	||||	  L=NΦ/I                                                                	#
+
+Voltage across a inductive coil is given by	||||	  V=Ldi/dt	#
+
+A sudden change in current in capacitor will be	||||	  allowed	#
+
+A sudden change in voltage in capacitor will  	||||	 not be allowed	#
+
+In order to tune a parallel resonant circuit to a lower frequency, the capacitance must 	||||	be increased	#
+
+An example for coupled circuit is	||||	 .transformer	#
+
+The expression for the Coupling coefficient (K) is	||||	  K2=M2/ L1L2)	#
+
+In a magnetic circuit If  Coupling coefficient (K) is one, then the coils are	||||	  perfectly coupled	#
+
+ In a magnetic circuit if coupling coefficient (K) is small, then the coils are	||||	 loosely coupled	#
+ 
+When two coils with mutual inductance(‘M’)are connected in series aiding, then the equivalent inductance is (M = Mutual Inductance , L1= Self Inductance of coil 1, L2= Self Inductance of coil 2)	||||	  L1+L2+2M 	#
+
+When two coils with mutual inductance(‘M’)are connected in series opposing, then the equivalent inductance is (M = Mutual Inductance , L1= Self Inductance of coil 1, L2= Self Inductance of coil 2)	||||	  L1+L2-2M	#
+
+When two coils with mutual inductance(‘M’)are connected in parallel aiding, then the equivalent inductance is (M = Mutual Inductance , L1= Self Inductance of coil 1, L2= Self Inductance of coil 2)	||||	  L1L2-M2/( L1+L2-2M)	#
+
+When two coils with mutual inductance (‘M’)are connected in parallel opposing, then the equivalent inductance is (M = Mutual Inductance , L1= Self Inductance of coil 1, L2= Self Inductance of coil 2)	||||	  L1L2-M2/( L1+L2+2M)	#
+
+To analyze a coupled circuit, the following rule is  used	||||	  Dot rule	#
+
+For an RF circuit design, which one of the following circuit is preferred ?	||||	  Tuned circuit	#
+
+ In a series resonance circuit, why does the current lags behind the source voltage at frequencies below resonance? 	||||	  because the circuit is predominantly capacitive	#
+ 
+The statements S1 & S2 refers to the properties of Series Resonant RLC circuit. S1: The net reactance is 0.  S2:  The net susceptance is 0.	||||	  S1 is TRUE & S2 is FALSE.	#
+
+Tuned coupled circuits are applied in _________.	||||	 Broadcasting receivers	#
+
+Which of these are FALSE?   A: Q factor = X c / R    B: Q factor = f0 / f2 – f1	||||	    Only A	#
+
+The Q factor of a RLC circuit is 5 at its resonance frequency of 1 Khz. assuming the power dissipation of 250 W when the current drawn is 1 A, find BW.	||||	 200 Hz	#
+
+What is the total reactance of a series RLC circuit at resonance?	||||	 zero  	
+
+The ratio of voltage transform at first port to the voltage transform at the second port is called?	||||	 Voltage transfer ratio	#
+
+The ratio of the current transform at one port to current transform at other port is called?	||||	 Current transfer ratio	#
+
+The ratio of voltage transform at first port to the current transform at the second port is called?	||||	 Transfer impedance	#
+
+ A network is said to be symmetrical if the relation between A and D is?	||||	 A = D	#
+ 
+The relation between Z11 and Z12 if the network is symmetrical is?	||||	 Z11 = Z12	#
+
+The relation between Z12 and Z11 and B and C parameters if the network is symmetrical is?	||||	 Z11 = Z12 =√(B/C)	#
+
+Two ports containing no sources in their branches are called?	||||	 passive ports	#
+
+Two ports containing sources in their branches are called?	||||	 active ports	#
+
+In determining open circuit impedance parameters, among V1, V2, I1, I2, which of the following are dependent variables?	||||	 V1 and V2	#
+
+In determining open circuit impedance parameters, among V1, V2, I1, I2, which of the following are independent variables?	||||	 I1 and I2	#
+
+Which of the following expression is true in case of open circuit parameters?	||||	 V1 = Z11I1 + Z12 I2	#
+
+Which of the following expression is true in case of open circuit parameters?	||||	 V2 = Z21I1 + Z22 I2	#
+
+In determining short circuit impedance parameters, among V1, V2, I1, I2, which of the following are dependent variables?	||||	 I1 and I2	#
+
+In determining short circuit impedance parameters, among V1, V2, I1, I2, which of the following are independent variables?	||||	 V1 and V2	#
+
+ Which of the following expression is true in case of short circuit parameters?	||||	 I1 = Y11 V1 + Y12 V2	#
+ 
+Which of the following expression is true in case of short circuit parameters?	||||	 I2 = Y21V1 + Y22 V2	#
+
+The parameters Y11, Y12, Y21, Y22 are called?	||||	 Short circuit admittance parameters	#
+
+The hybrid parameter h11 is called?	||||	 short circuit input impedance	#
+
+The hybrid parameter h21 is called?	||||	 short circuit forward current gain	#
+
+For the given information Z11 = 3, Z12 = 1, Z21 = 2, Z22 = 1. Find the value of Y11.	||||	1	#
+
+Mutual inductance is properly associated with	||||	two or more coils with electrical coupling 	#
+
+The maximum value of coefficient of coupling is 	||||	80%	#
+
+The maximum possible mutual inductance value of two inductively coupled coils with self inductances L1 = 25 mH and L2= 100 mH is given by	||||	  90 mH	#
+
+Two coils connected in series have an equivalent inductance of 3 H when connected in aiding. If the self inductance of the first coil is 1 H , what is the self inductance of the second coil (assume M = 0.5 H)	||||	  4H	#
+
+What is the impedance of an ideal parallel resonant circuit without resistance in either branch ?	||||	 infinity  	#
+
